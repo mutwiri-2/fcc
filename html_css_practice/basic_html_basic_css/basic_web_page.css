@@ -15,3 +15,6 @@ h1 {
     text-align: center;
 }
 
+#circular-image {
+    border-radius: 50%;
+}
