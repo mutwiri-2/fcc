@@ -2,3 +2,14 @@ body {
     background-color: whitesmoke;
     font-family: monospace;
 }
+
+.full-card {
+    border: 1px gray solid;
+    border-radius: 10px;
+    margin: 10px 5px;
+    padding: 10px;
+}
+
+.card-content {
+    padding: 10px;
+}
