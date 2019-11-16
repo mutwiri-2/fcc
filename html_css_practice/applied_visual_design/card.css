@@ -8,6 +8,7 @@ h4 {
     padding: 10px;
     background-color: rgba(45, 45, 45, 0.5);
     font-size: 27px;
+    text-transform: uppercase;
 }
 
 p {
