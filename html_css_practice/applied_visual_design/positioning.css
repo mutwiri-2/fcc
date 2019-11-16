@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    margin: auto;
+    border: 5px #ccc inset;
+    padding: 10px;
+    height: 90%;
+}
+
+h2 {
+    position: relative;
+    top: 50px;
+}
