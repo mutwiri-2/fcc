@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav ul {
+    margin: 0;
+    padding: 5px 0 10px 30px;
+}
+
+nav ul li {
+    display: inline;
+    padding: 20px;
+    margin-right: 25px;
+}
+
+#nav-bar {
+    width: 100%;
+    background-color: #ccc;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
