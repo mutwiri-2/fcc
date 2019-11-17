@@ -1,0 +1,16 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#left {
+    float: left;
+    width: 40%;
+    padding: 10px;
+}
+
+#right {
+    float: right;
+    width: 50%;
+    background-color: #ccf;
+    padding: 10px;
+}
