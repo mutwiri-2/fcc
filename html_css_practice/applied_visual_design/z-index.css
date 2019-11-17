@@ -1,0 +1,19 @@
+div {
+    margin-top: 20px;
+    width: 60%;
+    height: 200px;
+}
+
+#first {
+    position: absolute;
+    background-color: red;
+    z-index: 1;
+}
+
+#second {
+    position: absolute;
+    top: 50px;
+    left: 60px;
+    background-color: blue;
+    z-index: 2;
+}
