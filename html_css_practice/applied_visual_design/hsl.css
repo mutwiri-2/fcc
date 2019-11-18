@@ -1,0 +1,33 @@
+h1 {
+    font-family: fantasy;
+}
+
+div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.red {
+    background-color: hsl(0, 100%, 50%);
+}
+
+.yellow {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.green {
+    background-color: hsl(120, 100%, 50%);
+}
+
+.cyan {
+    background-color: hsl(180, 100%, 50%);
+}
+
+.blue {
+    background-color: hsl(240, 100%, 50%);
+}
+
+.magenta {
+    background-color: hsl(300, 100%, 50%);
+}
