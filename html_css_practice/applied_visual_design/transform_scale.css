@@ -15,6 +15,10 @@ body {
     left: 20%;
 }
 
+.ball1:hover {
+    transform: scale(1.5);
+}
+
 .ball2 {
     left: 65%;
     transform: scale(2.5);
