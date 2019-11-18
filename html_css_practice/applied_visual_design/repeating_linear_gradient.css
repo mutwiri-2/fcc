@@ -1,0 +1,36 @@
+div {
+    margin: 50px auto;
+    border-radius: 20px;
+    width: 70%;
+    height: 400px;
+}
+
+.one {
+    background: repeating-linear-gradient(
+        90deg,
+        yellow 0px,
+        yellow 40px,
+        black 40px,
+        black 80px
+    );
+}
+
+.two {
+    background: repeating-linear-gradient(
+        45deg,
+        yellow 0px,
+        yellow 40px,
+        black 40px,
+        black 80px
+    );
+}
+
+.three {
+    background: repeating-linear-gradient(
+        180deg,
+        yellow 0px,
+        yellow 40px,
+        black 40px,
+        black 80px
+    );
+}
