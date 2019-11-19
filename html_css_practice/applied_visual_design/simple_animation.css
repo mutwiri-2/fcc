@@ -1,0 +1,40 @@
+button {
+    padding: 10px;
+    margin: auto;
+    position: absolute;
+    left: 20%;
+    animation-name: colorful;
+    animation-duration: 10s;
+}
+
+button:hover {
+    animation-name: hovering;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes colorful {
+    0% {
+        background-color: yellowgreen;
+    }
+
+    25% { 
+        background-color: black;
+        color: wheat;
+    }
+
+    50% {
+        background-color: teal;
+    }
+
+    100% {
+        background-color: yellow;
+    }
+}
+
+@keyframes hovering {
+    100% {
+        background-color: blue;
+        transform: rotate(45deg);
+    }
+}
