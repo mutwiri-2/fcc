@@ -1,0 +1,16 @@
+.positive {
+    transform: skewX(22deg);
+}
+
+.negative {
+    transform: skewX(-34deg);
+}
+
+.positive-y {
+    transform: skewY(10deg);
+    color: red;
+}
+
+.negative-y {
+    transform: skewY(-20deg);
+}
