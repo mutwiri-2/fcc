@@ -1,0 +1,33 @@
+.ball {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: fixed;
+    background: linear-gradient(35deg, #ffcccc, #ccffff);
+    animation-name: bounce;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+#ball-1 {
+    left: 20%;
+    animation-timing-function: cubic-bezier(0.25, 0.25, 0.75, 0.75);
+}
+
+#ball-2 {
+    left: 50%;
+    animation-timing-function: cubic-bezier(0.45, 0.35, 0.95, 0.80);
+}
+
+@keyframes bounce {
+    0% {
+        top: 0px;
+    }
+
+    50% {
+        top: 250px;
+    }
+    100% {
+        top: 0px;
+    }
+}
