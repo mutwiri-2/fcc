@@ -16,7 +16,7 @@
 
 #ball-2 {
     left: 50%;
-    animation-timing-function: cubic-bezier(0.45, 0.35, 0.95, 0.80);
+    animation-timing-function: cubic-bezier(0, 0, 0.58, 1);
 }
 
 @keyframes bounce {
