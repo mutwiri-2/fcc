@@ -6,6 +6,7 @@
     box-shadow: 10px 10px 10px 10px teal;
     animation-name: movement;
     animation-duration: 10s;
+    animation-fill-mode: forwards;
 }
 
 @keyframes movement {
