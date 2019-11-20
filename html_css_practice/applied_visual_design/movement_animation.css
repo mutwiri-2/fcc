@@ -1,0 +1,29 @@
+#rect {
+    margin: 50px auto;
+    width: 70%;
+    height: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px teal;
+    animation-name: movement;
+    animation-duration: 10s;
+}
+
+@keyframes movement {
+    0% {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+
+    50% {
+        position: absolute;
+        top: 200px;
+        left: 100px;
+    }
+
+    100% {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+}
