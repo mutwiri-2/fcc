@@ -4,6 +4,10 @@ body {
     background-color: black;
 }
 
+p {
+    font-size: 18px;
+}
+
 .larger-image {
     width: 500px;
 }
@@ -16,5 +20,20 @@ h1 {
 }
 
 #circular-image {
+    border-color: green;
+    border-style: groove;
+    border-width: 10px;
     border-radius: 50%;
+}
+
+#main-form {
+    background-color: chartreuse;
+    color: black;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+#main-form input, button {
+    margin-top: 5px;
+    padding: 10px;
 }
