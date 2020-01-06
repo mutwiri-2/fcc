@@ -52,4 +52,7 @@ a {
 
 a:hover {
     color: blue;
+    background: rgba(45, 45, 45, 0.1);
+    text-decoration: none;
+    padding: 5px;
 }
