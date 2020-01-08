@@ -1,5 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 150vh;
 }
 
 nav ul {
@@ -14,9 +15,14 @@ nav ul li {
 }
 
 #nav-bar {
+    margin: auto;
     width: 100%;
     background-color: #ccc;
     position: fixed;
     top: 0px;
     left: 0px;
+}
+
+a {
+    text-decoration: none;
 }
