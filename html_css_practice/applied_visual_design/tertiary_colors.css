@@ -1,0 +1,39 @@
+body {
+    font-family: cursive;
+}
+
+div {
+    border: 1px solid inherit;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.orange {
+    background-color: orange;
+    background-color: #ff7f00;
+}
+
+.rose {
+    background-color: #ff007f;
+}
+
+.violet {
+    background-color: violet;
+    background-color: #7f00ff;
+}
+
+.azure {
+    background-color: azure;
+    background-color: #007fff;
+}
+
+.spring-green {
+    background-color: springgreen;
+    background-color: #00ff7f;
+}
+
+.chartreuse-green {
+    background-color: chartreuse;
+    background-color: #7fff00;
+}
