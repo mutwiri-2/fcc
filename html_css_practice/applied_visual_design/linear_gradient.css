@@ -3,25 +3,25 @@ body {
 }
 
 div {
-    border-radius: 10px;
+    border-radius: 20px;
     margin: 50px auto;
-    width: 200px;
-    height: 250px;
+    width: 50%;
+    height: 500px;
     padding: 5px;
 }
 
 .injected-text {
-    margin-bottom: -25px;
+    margin-bottom: -500px;
 }
 
 .vertical {
-    background: linear-gradient(90deg, #1030e6, #13f0c4);
+    background: linear-gradient(90deg, #ccffff, #ffcccc);
 }
 
 .back-slash {
-    background: linear-gradient(45deg, red, blue);
+    background: linear-gradient(45deg, hsl(30, 100%, 50%), hsl(120, 100%, 50%));
 }
 
 .horizontal {
-    background: linear-gradient(180deg, green, yellow);
+    background: linear-gradient(180deg, hsl(240, 100%, 50%), hsl(330, 100%, 50%));
 }
