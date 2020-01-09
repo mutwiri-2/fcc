@@ -1,5 +1,5 @@
 body {
-    background-color: #333;
+    background-color: rosybrown;
 }
 
 .ball {
@@ -7,19 +7,19 @@ body {
     height: 50px;
     margin: 50px auto;
     border-radius: 50%;
-    background: linear-gradient(60deg, #ccffff, #ffcccc);
-    position: fixed;
+    background: linear-gradient(35deg, #ccffff, #ffcccc);
+    position: absolute;
 }
 
-.ball1 {
+#ball1 {
     left: 20%;
 }
 
-.ball1:hover {
+#ball1:hover {
     transform: scale(1.5);
 }
 
-.ball2 {
+#ball2 {
     left: 65%;
     transform: scale(2.5);
 }
