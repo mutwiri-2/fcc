@@ -12,22 +12,46 @@ div {
     background-color: hsl(0, 100%, 50%);
 }
 
+.orange {
+    background-color: hsl(30, 100%, 50%);
+}
+
 .yellow {
     background-color: hsl(60, 100%, 50%);
+}
+
+.chartreuse-green {
+    background-color: hsl(90, 100%, 50%);
 }
 
 .green {
     background-color: hsl(120, 100%, 50%);
 }
 
+.spring-green {
+    background-color: hsl(150, 100%, 50%);
+}
+
 .cyan {
     background-color: hsl(180, 100%, 50%);
+}
+
+.azure {
+    background-color: hsl(210, 100%, 50%);
 }
 
 .blue {
     background-color: hsl(240, 100%, 50%);
 }
 
+.violet {
+    background-color: hsl(270, 100%, 50%);
+}
+
 .magenta {
     background-color: hsl(300, 100%, 50%);
+}
+
+.rose {
+    background-color: hsl(330, 100%, 50%);
 }
