@@ -13,4 +13,5 @@
 
 .negative-y {
     transform: skewY(-20deg);
+    color: red;
 }
