@@ -34,3 +34,13 @@ div {
         black 80px
     );
 }
+
+.four {
+    background: repeating-linear-gradient(
+        135deg,
+        cyan 0px,
+        cyan 50px,
+        purple 50px,
+        purple 100px
+    );
+}
