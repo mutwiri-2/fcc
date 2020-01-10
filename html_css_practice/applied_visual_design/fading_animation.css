@@ -3,7 +3,7 @@
     height: 70px;
     border-radius: 50%;
     margin: 50px auto;
-    background: linear-gradient(35deg, teal, green);
+    background: linear-gradient(95deg, violet, orange);
     position: fixed;
     top: 10%;
     left: 20%;
@@ -14,6 +14,6 @@
 @keyframes fade {
     50%{
         left: 60%;
-        opacity: 0.1;
+        opacity: 0.3;
     }
 }
