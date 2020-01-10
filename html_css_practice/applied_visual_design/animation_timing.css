@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 .balls {
     width: 50px;
     height: 50px;
@@ -40,7 +44,7 @@
     }
 
     50% {
-        top: 245px;
+        top: 400px;
     }
 
     100% {
