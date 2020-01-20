@@ -1,0 +1,17 @@
+body {
+    font-family: monospace;
+}
+
+table, th, td {
+    border: 1px solid black;
+    /* border-collapse: collapse; */
+}
+
+.sr-only {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
