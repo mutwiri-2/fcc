@@ -1,0 +1,77 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#nowrap {
+    flex-wrap: nowrap;
+}
+
+#wrap {
+    flex-wrap: wrap;
+}
+
+#wrap-reverse {
+    flex-wrap: wrap-reverse;
+}
+
+#nowrap-columns {
+    flex-wrap: nowrap;
+}
+
+#wrap-columns {
+    flex-wrap: wrap;
+}
+
+#wrap-reverse-columns {
+    flex-wrap: wrap-reverse;
+}
+
+.row {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.one {
+    width: 25%;
+    height: 50%;
+    background-color: red;
+}
+
+.two {
+    width: 25%;
+    height: 50%;
+    background-color: cyan;
+}
+
+.three {
+    width: 25%;
+    height: 50%;
+    background-color: blue;
+}
+
+.four {
+    width: 25%;
+    height: 50%;
+    background-color: magenta;
+}
+
+.five {
+    width: 25%;
+    height: 50%;
+    background-color: green;
+}
+
+.six {
+    width: 25%;
+    height: 50%;
+    background-color: yellow;
+}
