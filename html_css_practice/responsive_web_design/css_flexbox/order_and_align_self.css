@@ -1,0 +1,36 @@
+body {
+    font-family: monospace;
+}
+
+p {
+    font-size: 20px;
+}
+
+.container {
+    height: 700px;
+    display: flex;
+}
+
+.one {
+    height: 200px;
+    width: 200px;
+    order: 1;
+    align-self: center;
+    background-color: red;
+}
+
+.two {
+    height: 200px;
+    width: 200px;
+    order: 3;
+    align-self: flex-start;
+    background-color: green;
+}
+
+.three {
+    height: 200px;
+    width: 200px;
+    order: 2;
+    align-self: flex-end;
+    background-color: blue;
+}
