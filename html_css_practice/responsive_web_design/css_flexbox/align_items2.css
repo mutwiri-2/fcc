@@ -1,0 +1,52 @@
+body {
+    font-family: monospace;
+}
+
+#center {
+    align-items: center;
+}
+
+#flex-start {
+    align-items: flex-start;
+}
+
+#flex-end {
+    align-items: flex-end;
+}
+
+#stretch {
+    align-items: stretch;
+}
+
+#baseline {
+    align-items: baseline;
+}
+
+
+.container {
+    border: 5px solid;
+    height: 500px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.one {
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    border-radius: 10px;
+}
+
+.two {
+    width: 100px;
+    height: 100px;
+    background-color: magenta;
+    border-radius: 10px;
+}
+
+.three {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 10px;
+}
