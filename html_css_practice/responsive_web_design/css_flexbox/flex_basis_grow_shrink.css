@@ -1,0 +1,32 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    height: 80vh;
+    display: flex;
+}
+
+.one {
+    flex-basis: 10em;
+    background-color: teal;
+    flex-shrink: 1;
+}
+
+.two {
+    flex-basis: 30em;
+    background-color: springgreen;
+    flex-shrink: 2;
+}
+
+.three {
+    flex-basis: 50em;
+    background-color: tomato;
+    flex-grow: 2;
+}
+
+.four {
+    flex-basis: 40em;
+    background-color: violet;
+    flex-grow: 1;
+}
