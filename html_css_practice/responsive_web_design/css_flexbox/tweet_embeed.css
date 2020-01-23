@@ -4,6 +4,7 @@ body {
 
 header {
     display: flex;
+    flex-direction: row;
 }
 
 header .profile-thumbnail {
@@ -48,6 +49,7 @@ header h3, header h4 {
 
 footer {
     display: flex;
+    flex-direction: row;
 }
 
 footer .stats {
