@@ -1,0 +1,55 @@
+body {
+    font-family: monospace;
+}
+
+#center {
+    justify-content: center;
+}
+
+#flex-start {
+    justify-content: flex-start;
+}
+
+#flex-end {
+    justify-content: flex-end;
+}
+
+#space-between {
+    justify-content: space-between;
+}
+
+#space-around {
+    justify-content: space-around;
+}
+
+#space-evenly {
+    justify-content: space-evenly;
+}
+
+.container {
+    border: 5px solid;
+    min-height: 500px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.one {
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    border-radius: 10px;
+}
+
+.two {
+    width: 100px;
+    height: 100px;
+    background-color: magenta;
+    border-radius: 10px;
+}
+
+.three {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 10px;
+}
