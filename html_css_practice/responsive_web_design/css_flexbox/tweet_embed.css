@@ -16,6 +16,7 @@ header .profile-thumbnail {
 header .profile-name {
     display: flex;
     flex-direction: column;
+    justify-content: space-evenly;
     margin-left: 15px;
 }
 
