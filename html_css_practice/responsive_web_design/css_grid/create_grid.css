@@ -5,6 +5,7 @@
     display: grid;
     grid-template-columns: 100px 100px 100px;
     grid-template-rows: 50px 50px 50px;
+    grid-template-columns: 1fr auto 10% 50px 1.5em;
 }
 
 .d1 {
