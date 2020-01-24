@@ -15,6 +15,10 @@
 
 .item2 {
     background-color:LightSalmon;
+    justify-self: stretch;
+    justify-self: start;
+    justify-self: end;
+    justify-self: center;
 }
 
 .item3 {
