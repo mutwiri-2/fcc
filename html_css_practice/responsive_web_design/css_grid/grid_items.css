@@ -23,6 +23,10 @@
 
 .item3 {
     background-color:PaleTurquoise;
+    align-self: stretch;
+    align-self: start;
+    align-self: center;
+    align-self: end;
 }
 
 .item4 {
