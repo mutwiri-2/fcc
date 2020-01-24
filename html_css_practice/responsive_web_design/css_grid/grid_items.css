@@ -1,0 +1,31 @@
+.container {
+    font-size: 40px;
+    min-height: 400px;
+    width: 100%;
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px 20px;
+}
+
+.item1 {
+    background-color:LightSkyBlue;
+}
+
+.item2 {
+    background-color:LightSalmon;
+}
+
+.item3 {
+    background-color:PaleTurquoise;
+}
+
+.item4 {
+    background-color:LightPink;
+}
+
+.item5 {
+    background-color: PaleGreen;
+    grid-column: 2 / 4;
+}
