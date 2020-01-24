@@ -10,6 +10,7 @@
     grid-template-rows: 1fr 1fr 1fr;
     grid-column-gap: 10px;
     grid-row-gap: 5px;
+    grid-gap: 20px 30px;
 }
 
 .d1 {
