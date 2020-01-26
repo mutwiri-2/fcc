@@ -8,8 +8,8 @@
     grid-template-rows: 1fr 1fr 1fr;
     grid-gap: 15px 20px;
     grid-template-areas: 
-    "header header header",
-    ". content content",
+    "header header header"
+    ". content content"
     "footer footer footer";
 }
 
