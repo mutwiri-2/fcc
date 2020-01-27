@@ -1,0 +1,15 @@
+.container {
+    font: 20px monospace;
+    width: 100%;
+    height: 80vh;
+    background-color: black;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr minmax(300px, 800px);
+    grid-template-rows: 1fr minmax(100px, 20px) 1fr;
+    grid-gap: 10px;
+}
+
+.container div {
+    background-color: mediumspringgreen;
+}
