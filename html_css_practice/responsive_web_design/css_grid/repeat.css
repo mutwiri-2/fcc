@@ -7,6 +7,7 @@
     grid-template-rows: repeat(10, 1fr);
     grid-template-columns: repeat(10, 1fr);
     grid-template-columns: repeat(10, minmax(10px, 100px));
+    grid-template-columns: repeat(3, 2fr 1fr) 100px repeat(2, 2em) 10% ;
     grid-gap: 5px;
 }
 
