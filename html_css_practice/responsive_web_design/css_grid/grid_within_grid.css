@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+}
+
+.container {
+    width: 100%;
+    background-color: silver;
+    height: 90%;
+    font-size: 18px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-gap: 5px;
+}
+
+.header {
+    background-color: chartreuse;
+}
+
+.advert {
+    background-color: violet;
+}
+
+.content {
+    display: grid;
+    background-color: magenta;
+    grid-template-columns: 1fr 1fr;
+}
+
+.footer {
+    background-color: tomato;
+}
