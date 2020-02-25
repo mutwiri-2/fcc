@@ -16,5 +16,5 @@ body {
 .two {
     height: 200px;
     background-color: orangered;
-    flex: 1 1 150px;
+    flex: 1 1 200px;
 }
