@@ -1,7 +1,7 @@
 body {
     font-family: monospace;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: #ccc;
 }
 
 p {
