@@ -9,12 +9,13 @@ p {
 
 .box {
     border-color: black;
-    border-width: 10px;
+    border-width: 5px;
     border-style: solid;
 }
 
 .yellow-box {
-    background-color: yellow;
+    background-color: yellow; 
+    border: 20px solid yellow;
 }
 
 .injected-text {
