@@ -23,9 +23,9 @@ h1 {
 }
 
 #circular-image {
-    border-color: green;
-    border-style: groove;
-    border-width: 10px;
+    border-color: rgb(43, 1, 1);
+    border-style: outset;
+    border-width: 5px;
     border-radius: 50%;
 }
 
