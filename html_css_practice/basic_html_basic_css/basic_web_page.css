@@ -11,6 +11,14 @@ p {
     font-size: 18px;
 }
 
+.external-link {
+    text-decoration: none;
+}
+
+.internal-link {
+    color: green;
+}
+
 .larger-image {
     width: 50%;
 }
