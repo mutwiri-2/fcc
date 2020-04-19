@@ -2,6 +2,9 @@ body {
     font-family: sans-serif;
     color: black;
     background-color: #ccc;
+    border: 1px gray solid;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 p {
@@ -9,7 +12,7 @@ p {
 }
 
 .larger-image {
-    width: 500px;
+    width: 50%;
 }
 
 h1 {
