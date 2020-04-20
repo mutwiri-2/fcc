@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 5px;
+}
+
+.one {
+    text-align: justify;
+}
+
+.two {
+    text-align: center;
+}
+
+.three {
+    text-align: right;
+}
+
+.four {
+    text-align: left;
+}
