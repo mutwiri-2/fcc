@@ -6,6 +6,7 @@ body {
     margin: auto;
     border: 5px #ccc inset;
     padding: 10px;
+    height: 90vh;
 }
 
 h2 {
