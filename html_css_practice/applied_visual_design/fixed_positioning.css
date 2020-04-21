@@ -25,6 +25,7 @@ nav ul li {
 
 a {
     text-decoration: none;
+    text-transform: lowercase;
 }
 
 h1 {
