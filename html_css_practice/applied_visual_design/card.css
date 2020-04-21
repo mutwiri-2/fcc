@@ -27,11 +27,17 @@ p {
 .full-card {
     border: 1px gray solid;
     border-radius: 10px;
-    margin: 10px 5px;
+    margin: 30px auto;
     padding: 10px;
     /* width: 80%; */
     width: 400px;
     height: auto;
+}
+
+@media (max-width:768px){
+    .full-card {
+        width: 245px;
+    }
 }
 
 .card-content {
