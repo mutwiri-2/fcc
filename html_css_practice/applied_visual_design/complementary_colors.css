@@ -1,6 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
 div {
-    width: 100px;
-    height: 100px;
+    width: 16vw;
+    height: 80vh;
     display: inline-block;
 }
 
