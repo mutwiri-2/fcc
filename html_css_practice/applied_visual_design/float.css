@@ -4,13 +4,14 @@ body {
 
 #left {
     float: left;
-    width: 40%;
+    width: 25%;
+    background-color: #ccf;
     padding: 10px;
 }
 
 #right {
     float: right;
-    width: 50%;
-    background-color: #ccf;
+    width: 70%;
+    background-color: rgb(156, 156, 223);
     padding: 10px;
 }
