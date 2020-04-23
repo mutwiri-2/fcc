@@ -5,23 +5,23 @@ body {
 
 header {
     text-align: center;
-    background-color: magenta;
+    background-color: green;
     color: #ffffff;
     padding: 0.5em;
 }
 h2 {
-    color: magenta;
+    color: green;
 }
 
 button {
     padding: 10px;
-    background-color: green;
+    background-color: magenta;
     border: none;
 }
 
 footer {
     text-align: center;
-    background-color: magenta;
+    background-color: green;
     color: #ffffff;
     padding: 0.5em;
     margin-top: 30px;
