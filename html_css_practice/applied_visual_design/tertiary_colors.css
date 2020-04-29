@@ -2,16 +2,23 @@ body {
     font-family: sans-serif;
 }
 
+h2 {
+    text-align: center;
+}
+
 div {
-    border: 1px solid inherit;
     width: 16vw;
     height: 80vh;
     display: inline-block;
 }
 
+p {
+    padding: 10px;
+}
+
 .orange {
     background-color: orange;
-    background-color: #ff7f00;
+    background-color: #ffa500;
 }
 
 .rose {
@@ -20,7 +27,7 @@ div {
 
 .violet {
     background-color: violet;
-    background-color: #7f00ff;
+    background-color: #EE82EE;
 }
 
 .azure {
