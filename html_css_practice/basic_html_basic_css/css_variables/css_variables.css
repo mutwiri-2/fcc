@@ -1,4 +1,5 @@
   :root {
+    width: 300px; /* browser fallback to increase browser compatibility */
     --penguin-size: 300px;
     --penguin-skin: gray;
     --penguin-belly: white;
