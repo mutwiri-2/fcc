@@ -6,6 +6,7 @@
     --penguin-beak: orange;
   }
 
+/* use css variables to simplify how media queries work */
   @media (max-width: 350px) {
     :root {
         --penguin-size: 200px;
