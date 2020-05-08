@@ -4,6 +4,7 @@ body {
 
 p {
     background: lightblue;
+    height: 100px;
 }
 
 .pixels {
@@ -16,4 +17,20 @@ p {
 
 .percent {
     width: 60%;
+}
+
+.max-content {
+    width: max-content;
+}
+
+.min-content {
+    width: min-content;
+}
+
+.fit-content {
+    width: fit-content;
+}
+
+.auto {
+    width: auto;
 }
