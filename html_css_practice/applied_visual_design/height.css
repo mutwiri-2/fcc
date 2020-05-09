@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+    background: cyan;
+    width: 50%;
+}
+
+.pixels {
+    height: 100px;
+}
+
+.ems {
+    height: 20em;
+}
+
+.percent {
+    height: 60%;
+}
+
+.max-content {
+    height: max-content;
+}
+
+.min-content {
+    height: min-content;
+}
+
+.fit-content {
+    height: fit-content;
+}
+
+.auto {
+    height: auto;
+}
