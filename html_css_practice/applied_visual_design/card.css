@@ -24,6 +24,7 @@ p {
 
 #thumbnail {
     box-shadow: 0 10px 20px 5px rgba(0, 0, 0, 0.19), 2px -6px 6px 3px rgba(0, 0, 0, 0.23);
+    /* offset-x positive shadow right negative shadow left offset-y positive shadow below negative shadow above blur-radius spread-radius color separate multiple shadows with comma if color not given inherits from text use rgba colors more flexible to adjust transparency / opaqueness*/
 }
 
 .full-card {
