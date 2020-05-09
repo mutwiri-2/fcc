@@ -1,7 +1,7 @@
 body {
     background-color: whitesmoke;
     font-family: monospace;
-    opacity: 0.9;
+    opacity: 0.9;  /* 0 is transparent 1 is opaque */
 }
 
 h4 {
