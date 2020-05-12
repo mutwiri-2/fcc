@@ -26,9 +26,6 @@ h1 {
     bottom: 5px;
 }
 
-section {
-    position: relative;
-}
 
 #search-box {
     position: absolute;
