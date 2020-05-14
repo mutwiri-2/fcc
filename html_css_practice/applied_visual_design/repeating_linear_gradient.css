@@ -44,3 +44,17 @@ div {
         purple 100px
     );
 }
+
+.five {
+    background: repeating-linear-gradient(
+        15deg,
+        red 0%,
+        red 25%,
+        black 25%,
+        black 50%,
+        green  50%,
+        green 75%,
+        blue 75%,
+        blue 100%
+    );
+}
