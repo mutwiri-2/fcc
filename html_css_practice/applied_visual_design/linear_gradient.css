@@ -19,9 +19,9 @@ div {
 }
 
 .back-slash {
-    background: linear-gradient(45deg, hsl(30, 100%, 50%), hsl(120, 100%, 50%));
+    background: linear-gradient(45deg, hsl(30, 100%, 50%), hsl(150, 100%, 50%));
 }
 
 .horizontal {
-    background: linear-gradient(180deg, hsl(240, 100%, 50%), hsl(330, 100%, 50%));
+    background: linear-gradient(180deg, hsl(240, 100%, 50%), hsl(300, 100%, 50%));
 }
