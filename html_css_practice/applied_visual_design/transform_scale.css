@@ -31,3 +31,7 @@ p {
     font-family: sans-serif;
     transform: scale(2);
 }
+
+p:hover {
+    transform: scale(3);
+}
