@@ -23,3 +23,11 @@ body {
     left: 65%;
     transform: scale(2.5);
 }
+
+p {
+    position: absolute;
+    bottom: 100px;
+    left: 25%;
+    font-family: sans-serif;
+    transform: scale(2);
+}
