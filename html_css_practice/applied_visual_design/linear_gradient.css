@@ -25,3 +25,15 @@ div {
 .horizontal {
     background: linear-gradient(180deg, hsl(240, 100%, 50%), hsl(300, 100%, 50%));
 }
+
+.sixty {
+    background: linear-gradient(60deg, azure, violet);
+}
+
+.thirty {
+    background: linear-gradient(30deg, brown, gray);
+}
+
+.one-twenty {
+    background: linear-gradient(120deg, green, yellow, blue);
+}
