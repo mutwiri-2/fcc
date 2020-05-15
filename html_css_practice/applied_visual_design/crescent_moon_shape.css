@@ -5,15 +5,10 @@ body {
 }
 
 .center {
-    /* position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0; */
     margin: auto;
     width: 100px;
     height: 100px;
-    /* background-color: transparent; */
+    background-color: transparent;
     border-radius: 50%;
-    box-shadow: 25px 10px 0 0 blue;
+    box-shadow: 15px 5px 0 0 blue;
 }
