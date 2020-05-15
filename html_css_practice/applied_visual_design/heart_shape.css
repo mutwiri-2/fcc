@@ -1,3 +1,7 @@
+body {
+    font-family: monospace;
+}
+
 .heart {
     margin: auto;
     position: absolute;
