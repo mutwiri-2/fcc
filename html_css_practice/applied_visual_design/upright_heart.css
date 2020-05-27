@@ -15,3 +15,14 @@ body {
     left: 0;
     transform: rotate(-45deg);
 }
+
+.heart::before {
+    content: '';
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    position: absolute;
+    left: 0;
+    top: -50px;
+    border-radius: 50%;
+}
