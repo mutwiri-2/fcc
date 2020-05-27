@@ -1,0 +1,17 @@
+body {
+    font-family: monospace;
+    background-color: tomato;
+}
+
+.heart {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transform: rotate(-45deg);
+}
