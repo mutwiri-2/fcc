@@ -26,3 +26,14 @@ body {
     top: -50px;
     border-radius: 50%;
 }
+
+.heart::after {
+    content: '';
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    position: absolute;
+    top: 0;
+    left: 50px;
+    border-radius: 50%;
+}
