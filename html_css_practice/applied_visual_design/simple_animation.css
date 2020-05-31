@@ -1,5 +1,5 @@
 div {
-    width: 70%;
+    width: 50%;
     height: 100px;
     margin: 200px auto;
     padding: 20px;
@@ -50,4 +50,6 @@ div:hover {
 
 p {
     text-align: center;
+    padding: 5px;
+    font-family: sans-serif;
 }
