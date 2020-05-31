@@ -39,7 +39,7 @@ div:hover {
 @keyframes hovering {
     50% {
         background-color: cyan;
-        transform: rotate(15deg) scale(0.5);
+        transform: rotate(15deg) scale(0.8);
     }
 
     100% {
