@@ -1,4 +1,8 @@
-  :root {
+/* css variables are a powerful way to change many CSS style properties at once by changing only one value.
+  To create a CSS variable, give it a name with two dashes (hyphens) infront of it and assign it a value 
+  After you create your variable, you can assign it's value to other CSS properties by referencing it like so 
+  var(--css-variable)*/
+:root {
     width: 300px; /* browser fallback to increase browser compatibility */
     --penguin-size: 300px;
     --penguin-skin: gray;
