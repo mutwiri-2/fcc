@@ -3,7 +3,7 @@
   After you create your variable, you can assign it's value to other CSS properties by referencing it like so 
   var(--css-variable)*/
 :root {
-    width: 300px; /* browser fallback to increase browser compatibility */
+    width: 300px; /* browser fallback to increase browser compatibility - put before variable declaration so browser has something to fall back on, while one that supports will just implement the declaration that comes after */
     --penguin-size: 300px;
     --penguin-skin: gray;
     --penguin-belly: white;
