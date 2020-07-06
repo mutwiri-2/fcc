@@ -8,18 +8,18 @@ body {
     margin: 5px;
 }
 
-.one {
+.justify-text {
     text-align: justify;
 }
 
-.two {
+.center-text {
     text-align: center;
 }
 
-.three {
+.right-align-text {
     text-align: right;
 }
 
-.four {
+.left-align-text {
     text-align: left;
 }
