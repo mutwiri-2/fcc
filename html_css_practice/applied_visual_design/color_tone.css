@@ -1,6 +1,7 @@
 body {
     font-family: monospace;
     color: white;
+    background-color: hsl(180, 50%, 75%) !important;
 }
 
 p {
