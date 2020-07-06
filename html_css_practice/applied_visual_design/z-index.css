@@ -1,8 +1,12 @@
+body {
+    font-family: monospace;
+}
+
 div {
     margin-top: 20px;
     width: 60%;
     height: 200px;
-    border-radius: 20px;;
+    border-radius: 20px;
 }
 
 #first {
