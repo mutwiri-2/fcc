@@ -1,3 +1,7 @@
+body {
+    font-family: sans-serif;
+}
+
 div {
     margin: 50px auto;
     border-radius: 20px;
