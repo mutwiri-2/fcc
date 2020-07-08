@@ -22,17 +22,17 @@ h2 {
 
 #ball-1 {
     left: 15%;
-    animation-timing-function: ease-out;
+    animation-timing-function: ease-out; /* quick in the beginning then slow down*/
 }
 
 #ball-2 {
     left: 25%;
-    animation-timing-function: linear;
+    animation-timing-function: linear; /* applies a constant animation speed throughout*/
 }
 
 #ball-3 {
     left: 35%;
-    animation-timing-function: ease-in;
+    animation-timing-function: ease-in; /* slow in the beginning then speeds up at the end*/
 }
 
 #ball-4 {
@@ -42,7 +42,7 @@ h2 {
 
 #ball-5 {
     left: 55%;
-    animation-timing-function: ease;
+    animation-timing-function: ease; /* start slow, speed up in the middle and slow down at end*/
 }
 
 @keyframes bounce {
