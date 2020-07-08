@@ -1,14 +1,19 @@
+h1 {
+    font-family: monospace;
+}
+
 .ball {
     width: 70px;
     height: 70px;
     border-radius: 50%;
     margin: 50px auto;
-    background: linear-gradient(95deg, violet, orange);
+    background: linear-gradient(95deg, rgb(143, 4, 143), orange);
     position: fixed;
     top: 10%;
     left: 20%;
     animation-name: fade;
     animation-duration: 5s;
+    animation-fill-mode: backwards;
 }
 
 @keyframes fade {
