@@ -1,6 +1,6 @@
 div {
     width: 50%;
-    height: 100px;
+    height: 150px;
     margin: 200px auto;
     padding: 20px;
     box-sizing: border-box;
@@ -52,12 +52,13 @@ div:hover {
 @keyframes hovering {
     50% {
         background-color: cyan;
-        transform: rotate(15deg) scale(0.8);
+        transform: rotate(180deg) scale(0.8);
     }
 
     100% {
-        background-color: blue;
-        transform: rotate(-15deg);
+        background-color: black;
+        color: white;
+        /* transform: rotate(-15deg); */
     }
 }
 
