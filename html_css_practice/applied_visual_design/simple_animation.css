@@ -5,8 +5,8 @@ div {
     padding: 20px;
     box-sizing: border-box;
     border-radius: 25px;
-    animation-name: colorful;
-    animation-duration: 10s;
+    animation-name: rainbow-colors;
+    animation-duration: 8s;
     animation-fill-mode: backwards;
     background-color: gray;
 }
@@ -18,22 +18,33 @@ div:hover {
     animation-fill-mode: backwards;
 }
 
-@keyframes colorful {
-    0% {
-        background-color: yellowgreen;
+@keyframes rainbow-colors {
+    14% {
+        background-color: red;
     }
 
-    25% { 
-        background-color: black;
-        color: wheat;
+    28% { 
+        background-color: orange;
     }
 
-    50% {
-        background-color: teal;
+    42% {
+        background-color: yellow;
+    }
+
+    56% {
+        background-color: green;
+    }
+
+    70% {
+        background-color: blue;
+    }
+
+    84% {
+        background-color: indigo;
     }
 
     100% {
-        background-color: yellow;
+        background-color: violet;
     }
 }
 
