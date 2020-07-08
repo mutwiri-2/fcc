@@ -11,11 +11,15 @@ body {
 }
 
 .positive-y {
+    position: absolute;
+    bottom: 100px;
     transform: skewY(10deg);
     color: red;
 }
 
 .negative-y {
+    position: absolute;
+    bottom: 100px;
     transform: skewY(-20deg);
     color: red;
 }
