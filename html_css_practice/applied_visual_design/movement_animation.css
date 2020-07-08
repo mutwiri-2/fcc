@@ -7,7 +7,7 @@ div {
     width: 50%;
     height: 50px;
     border-radius: 20px;
-    box-shadow: 10px 10px 10px 10px teal;
+    box-shadow: 10px 10px 10px 5px teal;
     position: relative;
 }
 
