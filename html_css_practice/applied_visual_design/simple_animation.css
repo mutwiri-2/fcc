@@ -11,12 +11,6 @@ div {
     background-color: gray;
 }
 
-div:hover {
-    animation-name: hovering;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-    animation-fill-mode: backwards;
-}
 
 @keyframes rainbow-colors {
     14% {
@@ -46,6 +40,13 @@ div:hover {
     100% {
         background-color: violet;
     }
+}
+
+div:hover {
+    animation-name: hovering;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    animation-fill-mode: backwards;
 }
 
 @keyframes hovering {
