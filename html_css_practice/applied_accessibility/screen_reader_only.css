@@ -9,8 +9,8 @@ table, th, td {
 
 .sr-only {
     position: absolute;
-    left: -10000px;
-    top: auto;
+    left: -10000px; /*push it away from browser window*/
+    top: auto; 
     height: 1px;
     width: 1px;
     overflow: hidden;
