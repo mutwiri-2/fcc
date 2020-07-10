@@ -1,4 +1,10 @@
 body {
+    font-family: sans-serif;
     background-color: black;
     color: blanchedalmond;
+}
+
+header, main {
+    margin: auto;
+    max-width: 768px;
 }
