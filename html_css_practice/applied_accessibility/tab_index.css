@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header, section {
+    max-width: 768px;
+    margin: auto;
+}
