@@ -6,3 +6,11 @@ body {
 li {
     list-style: none;
 }
+
+/*
+tab order can be changed by assigning an integer value to the tabindex attribute from 1 
+which will bring that element to focus first then 2, 3 and so on for the order before moving
+to 0 which is the default
+A negative tabindex value indicates an element is focusable but is not reachable by the keyboard
+This is generally used to bring focus to content programmatically (e.g when a div used for a pop-up window is activated
+*/
