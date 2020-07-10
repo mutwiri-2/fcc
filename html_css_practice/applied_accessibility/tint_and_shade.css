@@ -8,4 +8,13 @@ body {
 WCAG Guidelines recommends at least a 4.5:1 contrast ratio for normal text
 The ratio is calculated by comparing the relative luminance values of 2 colors 
 which ranges from 1:1 for the same color (no contrast) to 21:1 for white against black the strongest contrast
+
+In practice, the 4.5:1 contrast ratio can be reached by shading (adding black) to the darker color
+and tinting (adding white) to the lighter color
+
+Darker colors on the color wheel are considered to be shades of blue, violets, mangentas and red
+Lighter tinted colors are orange, yellow, greens and blue-greens
+
+tint - adding white to a color - use lightness property on hsl() 51% - 100%
+shade - adding black to a color - use lightness property on hsl() 0% - 50%%
 */
