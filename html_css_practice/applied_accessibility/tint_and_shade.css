@@ -1,4 +1,11 @@
 body {
-    color: hsl(0, 55%, 20%);
-    background-color: hsl(120, 25%, 35%);
+    font-family: sans-serif;
+    color: hsl(0, 0%, 4%);
+    background-color: hsl(120, 10%, 84%);
 }
+
+/*
+WCAG Guidelines recommends at least a 4.5:1 contrast ratio for normal text
+The ratio is calculated by comparing the relative luminance values of 2 colors 
+which ranges from 1:1 for the same color (no contrast) to 21:1 for white against black the strongest contrast
+*/
