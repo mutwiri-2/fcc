@@ -15,3 +15,11 @@ table, th, td {
     width: 1px;
     overflow: hidden;
 }
+
+/*
+The following CSS properties will NOT accomplish the same as above:
+display: none; 
+visibility: hidden; - These hides content for everyone including screen readers
+
+zero values for width and height - removes that element from the flow of your document meaning screen readers will ignore it too
+*/
