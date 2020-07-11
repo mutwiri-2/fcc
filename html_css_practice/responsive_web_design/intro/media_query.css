@@ -14,6 +14,7 @@ p {
 
 @media(min-width: 800px){
     p {
-        transform: scale(1.2);
+        background-color: grey;
+        padding: 10px;
     }
 }
