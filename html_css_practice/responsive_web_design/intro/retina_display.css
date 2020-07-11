@@ -1,8 +1,17 @@
+body {
+    background-color: lemonchiffon;
+}
+
 h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 
 img {
     height: 100px;
     width: 100px;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
