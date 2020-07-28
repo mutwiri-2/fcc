@@ -31,13 +31,13 @@ body {
 
 .d4 {
     background:LightPink;
-    /* grid-row: 3/4;
+    grid-row: 3/4;
     grid-column: 1/4;
-    z-index: 2; */
+    z-index: 2;
 }
 
 .d5 {
     background:PaleGreen;
-    /* grid-row: 3/4;
-    grid-column: 1/4; */
+    grid-row: 3/4;
+    grid-column: 1/4;
 }
