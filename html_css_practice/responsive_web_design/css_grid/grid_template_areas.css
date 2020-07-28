@@ -9,7 +9,7 @@
     grid-gap: 15px 20px;
     grid-template-areas: 
     "header header header"
-    ". content content"
+    "advert . content"
     "footer footer footer";
 }
 
@@ -25,10 +25,11 @@
 
 .three {
     background-color: khaki;
+    grid-area: advert;
 }
 
 .four {
-    background-color: lawngreen;
+    background-color: gray;
 }
 
 .five {
