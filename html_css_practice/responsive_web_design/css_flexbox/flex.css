@@ -10,6 +10,7 @@ body {
 .one {
     height: 200px;
     background-color: dodgerblue;
+    /* flex: 0 1 auto; default flex property settings */
     flex: 2 2 150px;
 }
 
