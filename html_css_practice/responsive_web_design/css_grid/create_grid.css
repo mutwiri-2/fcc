@@ -9,12 +9,12 @@ body {
     display: grid;
     grid-template-columns: 100px 100px 100px;
     grid-template-rows: 50px 50px 50px;
-    grid-template-columns: 1fr auto 10% 50px 1.5em;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: auto 10% 50px 1.5em 1fr 2fr;
+    /* grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
-    grid-column-gap: 10px;
+    /* grid-column-gap: 10px;
     grid-row-gap: 5px;
-    grid-gap: 20px 30px;
+    grid-gap: 20px 30px; */
 }
 
 .d1 {
@@ -31,13 +31,13 @@ body {
 
 .d4 {
     background:LightPink;
-    grid-row: 3/4;
+    /* grid-row: 3/4;
     grid-column: 1/4;
-    z-index: 2;
+    z-index: 2; */
 }
 
 .d5 {
     background:PaleGreen;
-    grid-row: 3/4;
-    grid-column: 1/4;
+    /* grid-row: 3/4;
+    grid-column: 1/4; */
 }
