@@ -8,6 +8,8 @@ p {
 
 .container {
     height: 700px;
+    border: 1px solid;
+    padding: 2px;
     display: flex;
 }
 
