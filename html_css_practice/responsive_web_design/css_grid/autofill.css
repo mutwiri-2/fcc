@@ -1,3 +1,7 @@
+body {
+    font-family: monospace;
+}
+
 .container {
     background-color: lightgray;
     font: 40px monospace;
