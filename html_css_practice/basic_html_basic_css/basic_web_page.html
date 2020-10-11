@@ -37,6 +37,14 @@
     <form id="main-form" action="/submit-to-url">
         <fieldset>
             <legend>A simple web form</legend>
+            <div class="user-info">
+                <label for="first-name">
+                    <input type="text" name="first-name" id="first-name" placeholder="Enter first name" required>
+                </label>
+                <label for="last-name">
+                    <input type="text" name="last-name" id="last-name" placeholder="Enter last name" required>
+                </label>
+            </div>
             <div class="checkbox"> <!--div is a general purpose container used to group related content-->
                 <label for="brave">
                     <input type="checkbox" name="browsers" id="brave" value="brave">Brave
