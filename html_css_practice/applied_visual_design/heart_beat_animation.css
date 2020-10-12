@@ -54,7 +54,7 @@ body {
 
 @keyframes backdiv {
     50% {
-        background-color: pink;
+        background-color: rgba(236, 118, 138, 0.7);
     }
 }
 
