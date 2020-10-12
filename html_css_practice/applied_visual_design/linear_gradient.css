@@ -15,11 +15,11 @@ div {
 }
 
 .vertical {
-    background: linear-gradient(90deg, #ccffff, #ffcccc);
+    background: linear-gradient(90deg, #04f7f7, #e20909);
 }
 
 .back-slash {
-    background: linear-gradient(45deg, hsl(30, 100%, 50%), hsl(150, 100%, 50%));
+    background: linear-gradient(45deg, hsl(12, 100%, 50%), hsl(150, 97%, 14%));
 }
 
 .horizontal {
@@ -27,11 +27,11 @@ div {
 }
 
 .sixty {
-    background: linear-gradient(60deg, azure, violet);
+    background: linear-gradient(60deg, rgb(6, 231, 231), rgb(143, 6, 143));
 }
 
 .thirty {
-    background: linear-gradient(30deg, brown, gray);
+    background: linear-gradient(30deg, brown, rgb(56, 8, 231));
 }
 
 .one-twenty {
