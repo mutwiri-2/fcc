@@ -3,6 +3,7 @@ h1 {
 }
 
 div {
+    background-color: bisque;
     margin: 50px auto;
     width: 50%;
     height: 50px;
