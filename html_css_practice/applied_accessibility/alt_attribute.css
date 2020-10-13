@@ -9,3 +9,10 @@ body {
 article {
     opacity: 1;
 }
+
+/*
+When alt text should be left blank:
+1. when images are grouped with a caption already - you may still want to include an alt for search
+  engines to help them know what the image contains so as to catalog it.
+2. when images are used for decoration only
+*/
