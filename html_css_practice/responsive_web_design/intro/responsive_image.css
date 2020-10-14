@@ -19,4 +19,6 @@ max-width: 100% - scales the image to fit the width of it's container, but the i
 will not stretch wider than its original width
 display: block - changes the image from an inline element to a block element on its own line
 height: auto - keeps the original aspect ratio of the image
+margin: auto - centers the image horizontally
+
 */
