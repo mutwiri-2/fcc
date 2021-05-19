@@ -1,12 +1,13 @@
 body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     line-height: 1.6;
+    background-color: #eee;
 }
 
 header {
     text-align: center;
     background-color: cyan;
-    color: #ffffff;
+    color: #0e0d0d;
     padding: 0.5em;
 }
 h2 {
@@ -22,7 +23,7 @@ button {
 footer {
     text-align: center;
     background-color: cyan;
-    color: #ffffff;
+    color: #0e0d0d;
     padding: 0.5em;
     margin-top: 30px;
 }
