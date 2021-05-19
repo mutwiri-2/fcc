@@ -5,12 +5,12 @@ body {
 
 nav ul {
     margin: 0;
-    padding: 5px 0 10px 50px;
+    padding: 5px 0 10px 0;
 }
 
 nav ul li {
     display: inline;
-    padding: 100px;
+    padding: 10px;
 }
 
 #nav-bar {
