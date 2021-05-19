@@ -7,12 +7,13 @@ div {
     width: 60%;
     height: 200px;
     border-radius: 20px;
+    padding: 20px;
 }
 
 #first {
     position: absolute;
     background-color: red;
-    z-index: 3;
+    z-index: 1;
 }
 
 #second {
