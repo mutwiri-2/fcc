@@ -7,21 +7,19 @@ body {
     border: 5px #ccc inset;
     padding: 10px;
     height: 90vh;
+    position: relative;
 }
 
 h2 {
-    position: relative;
     top: 100px;
     left: 30%;
 }
 
 .container p {
-    position: relative;
     top: 150px;
 }
 
 h1 { 
-    position: relative;
     left: 25px;
     bottom: 5px;
 }
