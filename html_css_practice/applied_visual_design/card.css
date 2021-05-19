@@ -12,7 +12,8 @@ h4 {
     padding: 10px;
     background-color: rgba(45, 45, 45, 0.2);
     font-size: 27px;
-    font-weight: 900;
+    font-weight: 900; /* maximum */
+    font-weight: 100; /* minimum */
     text-transform: capitalize;
 }
 
