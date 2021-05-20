@@ -8,3 +8,8 @@ header, main {
     margin: auto;
     max-width: 768px;
 }
+
+audio {
+    padding: 20px;
+    border: 5px solid yellowgreen;
+}
