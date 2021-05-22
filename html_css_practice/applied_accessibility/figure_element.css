@@ -7,3 +7,10 @@ body {
 li {
     list-style: none;
 }
+
+figure {
+    margin: auto;
+    max-width: fit-content;
+    border: 3px solid rgb(121, 7, 121);
+    padding: 5px;
+}
